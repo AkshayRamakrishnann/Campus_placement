@@ -1,6 +1,7 @@
 # Campus_placement
 
-# Machine Learning Project README
+![image](https://github.com/AkshayRamakrishnann/Predicting_Hotel_Booking_Cancellations__A_Machine_Learning_Approach/assets/111365771/20c3e30b-4d06-4fb6-9882-80ce2276b9df)
+
 
 ## Introduction
 
@@ -33,6 +34,9 @@ We conducted a thorough analysis of numerical features concerning placement stat
 We investigated the relationship between gender and placement status using a stacked bar chart. This helped us understand how gender impacts placement:
 
 - The chart provides insights into the number of placed and not-placed students by gender.
+
+![image](https://github.com/AkshayRamakrishnann/Predicting_Hotel_Booking_Cancellations__A_Machine_Learning_Approach/assets/111365771/cb3ecfe5-16c8-42ba-98e9-3cbe22f8d476)
+  
 - We calculated placement rates for each gender category and discussed the observed gender imbalance.
 
 ![image](https://github.com/AkshayRamakrishnann/Predicting_Hotel_Booking_Cancellations__A_Machine_Learning_Approach/assets/111365771/1becef25-4605-410e-a147-3a3dd54100d4)
